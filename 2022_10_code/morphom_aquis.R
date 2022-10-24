@@ -1,0 +1,6 @@
+devtools::install_github("MomX/Momacs")
+devtools::install_github("MomX/MomX")
+library(MomX)
+library(Momacs)
+trace("acquire",edit=TRUE)
+acquire()

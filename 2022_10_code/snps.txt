@@ -1,0 +1,11 @@
+,trnl,trnlf,its1_2
+1,c,c,tgtaatatgcgag
+3,c,c,tgtaatatgcgag
+4,c,c,ygtaayrtrcgag
+5,c,c,cgwrrcrcgcgag
+2,a,-,craggcgcgtgta
+6,a,-,caaggcgcgtgar
+7,a,-,cgtaacgyattag
+8,a,-,cgwarcrtgtgag
+p_hirsuta_ref,c,-,ygtaatatgcgag
+p_lutea_ref,,,caaggcgcgtgar
